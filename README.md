@@ -29,7 +29,7 @@ frontend React + Tailwind CSS, backend Node.js, Python and MongoDB.
 ## 🌱 Also interested in
 
 <p align="center">
-  <img width="100%" height="290" alt="GIF" src="https://cdn.dribbble.com/userupload/23222592/file/original-c8bbbfe77c09460ce990b268598ed119.gif" />
+  <img width="100%" height="400" alt="GIF" src="https://cdn.dribbble.com/userupload/23222592/file/original-c8bbbfe77c09460ce990b268598ed119.gif" />
 </p>
 
 C++, Python, cybersecurity and AI — secondary interests; my current focus is frontend web
